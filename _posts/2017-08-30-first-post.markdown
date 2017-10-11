@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "My first post!"
-date:   2015-11-17 16:16:01 -0600
+title:  "It works!"
+date:   2017-08-30 22:16:01 +0200
 categories: jekyll
 ---
-Per aspera ad astra
+Now onto some real content.
